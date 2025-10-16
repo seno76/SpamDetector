@@ -1,0 +1,12 @@
+Subject: Urgent: Your Account Security Alert
+
+Dear Valued Customer,
+
+We have detected unusual activity on your account. To prevent unauthorized access, please verify your identity immediately by clicking the link below.
+
+[FAKE LINK REMOVED]
+
+Failure to respond within 24 hours will result in account suspension.
+
+Sincerely,
+Security Team

@@ -1,0 +1,11 @@
+Subject: Your Package Delivery Failed
+
+We attempted to deliver your package but were unable to do so. Please confirm your address and payment information to reschedule delivery.
+
+Tracking Number: [FAKE NUMBER]
+Delivery Date: [FAKE DATE]
+
+Click here to update your information: [FAKE LINK]
+
+Thank you,
+Delivery Service
